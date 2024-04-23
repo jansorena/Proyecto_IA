@@ -1,10 +1,10 @@
 # Proyecto_IA
 
 ## Breve descripción del problema que abordarán
-El mario no se juega solo
+Mario es un videojuego reconocido mundialmente que requiere de un jugador real si o si. No puedes visualizar como se juega de manera autonoma si lo deseas.
 
 ## Solución propuesta de manera clara
-Que el mario se juegue solo
+Permitir que Mario juegue de manera independiente, esto por medio de la implementación de un algoritmo de aprendizaje por refuerzo que logre esto.
 
 ## Descripción del ambiente
 Parcialmente observable
