@@ -8,11 +8,11 @@ Permitir que Mario juegue de manera independiente, esto por medio de la implemen
 
 ## Descripción del ambiente
 Parcialmente observable
-Estocástico?
-Secuencial?
+Estocástico
+Secuencial
 Dinámico
 Discreto
-Agente singular?
+Agente singular
 
 ## Representación concreta del estado del juego, representada por una estructura de datos
 Se puede representar por medio de una matriz de estados, donde:
