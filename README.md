@@ -2,8 +2,10 @@
 
 ## Breve descripción del problema que abordarán
 El mario no se juega solo
+
 ## Solución propuesta de manera clara
 Que el mario se juegue solo
+
 ## Descripción del ambiente
 Parcialmente observable
 Estocástico?
