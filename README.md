@@ -1,4 +1,8 @@
 # Proyecto_IA
+Integrantes:
+- Jaime Ansorena
+- Diego Oporto
+- Dayan Sáez
 
 ## Breve descripción del problema que abordarán
 Mario es un videojuego reconocido mundialmente que requiere de un jugador real si o si. No puedes visualizar como se juega de manera autonoma si lo deseas.
@@ -21,7 +25,7 @@ Se puede representar por medio de una matriz de estados, donde:
 - 2: Representa un enemigo cualquiera
 - 3: Representa al jugador
 
-ESTADO DE EJEMPLO
+### Estado de ejemplo
 ```math
 \begin{bmatrix}
 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0 & 0\\
