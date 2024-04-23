@@ -36,5 +36,7 @@ ESTADO DE EJEMPLO
 [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
 
 ## Descripción de las acciones que puede tomar el agente
+El agente puede moverse en las direcciones izquierda, derecha y arriba (salto vertical). Tambien puede agacharse y saltar con dirección hacia la derecha o izquierda. Además, puede disparar si este alcanza su 3ra forma.
 
 ## Representación concreta de las acciones, representada por una estructura de datos
+Los movimientos pueden encasillarse en izquierda, derecha, arriba y abajo, por lo que podria representarse como [0,1,2,3], donde 0: izq; 1: der; 2: arr, 3: abajo.
