@@ -11,19 +11,20 @@ Mario es un videojuego reconocido mundialmente que requiere de un jugador real s
 Permitir que Mario juegue de manera independiente, esto por medio de la implementación de un algoritmo de aprendizaje por refuerzo que logre esto.
 
 ## Descripción del ambiente
-- Parcialmente observable
-- Estocástico
-- Secuencial
-- Dinámico
-- Discreto
-- Agente singular
+- **Parcialmente observable**: Agente no puede ver todo el entorno del juego simultáneamente.
+- **Estocástico**: El resultado de las acciones tomadas por el agente no siempre es predecible debido a la aleatoriedad en el juego.
+- **Secuencial**: Las acciones del agente tienen consecuencias a lo largo del tiempo.
+- **Dinámico**: El entorno del juego cambia constantemente.
+- **Discreto**: Las acciones y estados en el juego son discretos y pueden ser representados de manera finita.
+- **Agente singular**: Solo hay un agente en el juego.
+- **Representación concreta del estado del juego**: Se puede representar el estado del juego mediante una matriz de estados.
 
 ## Representación concreta del estado del juego, representada por una estructura de datos
 Se puede representar por medio de una matriz de estados, donde:
-- 0: Representa vacio
-- 1: Representa un bloque no traspasable
-- 2: Representa un enemigo cualquiera
-- 3: Representa al jugador
+- **0**: Representa vacio
+- **1**: Representa un bloque no traspasable
+- **2**: Representa un enemigo cualquiera
+- **3**: Representa al jugador
 
 ### Estado de ejemplo
 ```math
